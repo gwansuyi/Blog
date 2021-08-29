@@ -1,0 +1,12 @@
+---
+title: 2nd Test
+author: Yi
+date: '2021-08-30'
+categories:
+  - R
+tags:
+  - R Markdown
+slug: 2nd-test
+---
+
+![Caribbean Shores](images/B-Caribbeanshores12.jpg){width=400px height=200px}
